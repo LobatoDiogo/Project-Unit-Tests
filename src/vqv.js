@@ -18,6 +18,8 @@
   Caso a função seja chamada sem nenhum parâmetro, o valor undefined deve ser retornado.
 */
 
-const vqv = () => {};
+const vqv = () => {
+  
+};
 
 module.exports = vqv;
